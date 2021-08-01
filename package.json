@@ -1,0 +1,16 @@
+{
+  "name": "orbital",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.4.4"
+  },
+  "dependencies": {
+    "color": "^4.0.0",
+    "shuffle-array": "^1.0.1"
+  }
+}
